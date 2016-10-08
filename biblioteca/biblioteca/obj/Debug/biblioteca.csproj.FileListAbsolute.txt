@@ -1,0 +1,10 @@
+c:\users\computer\documents\visual studio 2015\Projects\biblioteca\biblioteca\bin\Debug\biblioteca.dll
+c:\users\computer\documents\visual studio 2015\Projects\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+c:\users\computer\documents\visual studio 2015\Projects\biblioteca\biblioteca\obj\Debug\biblioteca.dll
+c:\users\computer\documents\visual studio 2015\Projects\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\computer\Desktop\New folder\biblioteca\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\computer\Desktop\New folder\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\computer\Desktop\New folder\biblioteca\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\computer\Desktop\New folder\biblioteca\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\computer\Desktop\New folder\biblioteca\biblioteca\obj\Debug\biblioteca.pdb

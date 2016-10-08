@@ -1,0 +1,22 @@
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\bin\Debug\Principal.exe.config
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\bin\Debug\Principal.exe
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\bin\Debug\Principal.pdb
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.Principal.resources
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.exe
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.pdb
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\bin\Debug\biblioteca.dll
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\bin\Debug\biblioteca.pdb
+C:\Users\computer\Documents\Visual Studio 2015\Projects\biblioteca\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\bin\Debug\Principal.exe.config
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.exe
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.pdb
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\bin\Debug\Principal.exe
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\bin\Debug\Principal.pdb
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\bin\Debug\biblioteca.dll
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\bin\Debug\biblioteca.pdb
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.Principal.resources
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\computer\Desktop\New folder\biblioteca\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
